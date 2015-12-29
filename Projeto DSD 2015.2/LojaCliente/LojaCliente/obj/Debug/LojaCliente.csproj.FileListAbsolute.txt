@@ -1,0 +1,68 @@
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaCliente\LojaCliente\bin\Debug\LojaCliente.exe
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaCliente\LojaCliente\bin\Debug\LojaCliente.pdb
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaCliente\LojaCliente\obj\Debug\LojaCliente.csprojResolveAssemblyReference.cache
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaCliente\LojaCliente\obj\Debug\LojaCliente.CadastroCliente.resources
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaCliente\LojaCliente\obj\Debug\LojaCliente.TelaPrincipal.resources
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaCliente\LojaCliente\obj\Debug\LojaCliente.Properties.Resources.resources
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaCliente\LojaCliente\obj\Debug\LojaCliente.csproj.GenerateResource.Cache
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaCliente\LojaCliente\obj\Debug\LojaCliente.exe
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaCliente\LojaCliente\obj\Debug\LojaCliente.pdb
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaCliente\LojaCliente\bin\Debug\LojaCliente.exe.config
+E:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\bin\Debug\LojaCliente.exe.config
+E:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.exe
+E:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.pdb
+E:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\bin\Debug\LojaCliente.exe
+E:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\bin\Debug\LojaCliente.pdb
+E:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.csprojResolveAssemblyReference.cache
+E:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.CadastroCliente.resources
+E:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.TelaPrincipal.resources
+E:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.Properties.Resources.resources
+E:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.csproj.GenerateResource.Cache
+E:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.Realização_da_Venda.resources
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaCliente\LojaCliente\obj\Debug\LojaCliente.Realização_da_Venda.resources
+D:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\bin\Debug\LojaCliente.exe.config
+D:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.exe
+D:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.pdb
+D:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.csprojResolveAssemblyReference.cache
+D:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.CadastroCliente.resources
+D:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.Realização_da_Venda.resources
+D:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.TelaPrincipal.resources
+D:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.Properties.Resources.resources
+D:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.csproj.GenerateResource.Cache
+D:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\bin\Debug\LojaCliente.exe
+D:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\bin\Debug\LojaCliente.pdb
+J:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\bin\Debug\LojaCliente.exe.config
+J:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\bin\Debug\LojaCliente.exe
+J:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\bin\Debug\LojaCliente.pdb
+J:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.csprojResolveAssemblyReference.cache
+J:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.CadastroCliente.resources
+J:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.Realização_da_Venda.resources
+J:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.TelaPrincipal.resources
+J:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.Properties.Resources.resources
+J:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.csproj.GenerateResource.Cache
+J:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.exe
+J:\Projeto DSD\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.pdb
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaCliente\LojaCliente\bin\Debug\LojaCliente.exe.config
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaCliente\LojaCliente\bin\Debug\LojaCliente.exe
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaCliente\LojaCliente\bin\Debug\LojaCliente.pdb
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.csprojResolveAssemblyReference.cache
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.CadastroCliente.resources
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.ConsultarVendas.resources
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.Realização_da_Venda.resources
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.TelaPrincipal.resources
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.Properties.Resources.resources
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.csproj.GenerateResource.Cache
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.exe
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaCliente\LojaCliente\obj\Debug\LojaCliente.pdb
+J:\Projeto DSD\LojaCliente\LojaCliente\bin\Debug\LojaCliente.exe.config
+J:\Projeto DSD\LojaCliente\LojaCliente\obj\Debug\LojaCliente.exe
+J:\Projeto DSD\LojaCliente\LojaCliente\obj\Debug\LojaCliente.pdb
+J:\Projeto DSD\LojaCliente\LojaCliente\bin\Debug\LojaCliente.exe
+J:\Projeto DSD\LojaCliente\LojaCliente\bin\Debug\LojaCliente.pdb
+J:\Projeto DSD\LojaCliente\LojaCliente\obj\Debug\LojaCliente.csprojResolveAssemblyReference.cache
+J:\Projeto DSD\LojaCliente\LojaCliente\obj\Debug\LojaCliente.CadastroCliente.resources
+J:\Projeto DSD\LojaCliente\LojaCliente\obj\Debug\LojaCliente.ConsultarVendas.resources
+J:\Projeto DSD\LojaCliente\LojaCliente\obj\Debug\LojaCliente.Realização_da_Venda.resources
+J:\Projeto DSD\LojaCliente\LojaCliente\obj\Debug\LojaCliente.TelaPrincipal.resources
+J:\Projeto DSD\LojaCliente\LojaCliente\obj\Debug\LojaCliente.Properties.Resources.resources
+J:\Projeto DSD\LojaCliente\LojaCliente\obj\Debug\LojaCliente.csproj.GenerateResource.Cache

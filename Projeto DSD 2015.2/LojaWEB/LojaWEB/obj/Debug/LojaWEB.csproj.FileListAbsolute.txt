@@ -1,0 +1,30 @@
+D:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\obj\Debug\LojaWEB.csprojResolveAssemblyReference.cache
+D:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\bin\LojaWEB.dll.config
+D:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\bin\LojaWEB.dll
+D:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\bin\LojaWEB.pdb
+D:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\obj\Debug\LojaWEB.dll
+D:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\obj\Debug\LojaWEB.pdb
+E:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\bin\LojaWEB.dll.config
+E:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\bin\LojaWEB.dll
+E:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\bin\LojaWEB.pdb
+E:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\obj\Debug\LojaWEB.csprojResolveAssemblyReference.cache
+E:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\obj\Debug\LojaWEB.dll
+E:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\obj\Debug\LojaWEB.pdb
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaWEB\LojaWEB\bin\LojaWEB.dll.config
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaWEB\LojaWEB\bin\LojaWEB.dll
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaWEB\LojaWEB\bin\LojaWEB.pdb
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaWEB\LojaWEB\obj\Debug\LojaWEB.dll
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaWEB\LojaWEB\obj\Debug\LojaWEB.pdb
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaWEB\LojaWEB\obj\Debug\LojaWEB.csprojResolveAssemblyReference.cache
+J:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\bin\LojaWEB.dll.config
+J:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\bin\LojaWEB.dll
+J:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\bin\LojaWEB.pdb
+J:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\obj\Debug\LojaWEB.dll
+J:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\obj\Debug\LojaWEB.pdb
+J:\Projeto DSD\Projeto DSD Atualizado\LojaWEB\LojaWEB\obj\Debug\LojaWEB.csprojResolveAssemblyReference.cache
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaWEB\LojaWEB\bin\LojaWEB.dll.config
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaWEB\LojaWEB\bin\LojaWEB.dll
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaWEB\LojaWEB\bin\LojaWEB.pdb
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaWEB\LojaWEB\obj\Debug\LojaWEB.csprojResolveAssemblyReference.cache
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaWEB\LojaWEB\obj\Debug\LojaWEB.dll
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaWEB\LojaWEB\obj\Debug\LojaWEB.pdb

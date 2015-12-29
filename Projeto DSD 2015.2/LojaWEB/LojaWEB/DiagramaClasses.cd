@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LojaWEB.DAO.DAOCliente">
+    <Position X="0.5" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAABAAAAAAAAAgAAAAAAAAAAAAUAAAAQ=</HashCode>
+      <FileName>DAO\DAOCliente.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LojaWEB.DAO.DAOFormaPagamento">
+    <Position X="3" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAABAAAQAAQAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>DAO\DAOFormaPagamento.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LojaWEB.DAO.DAOFuncionario">
+    <Position X="5.5" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAACAAAAAAgAAAAgAAAAAAAAAAFAAAAAAAAAAA=</HashCode>
+      <FileName>DAO\DAOFuncionario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LojaWEB.DAO.DAOProduto">
+    <Position X="7.75" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAABYiAAAEAAAAAAAAAAAAAAAAAABAQAACAAAIAQAA=</HashCode>
+      <FileName>DAO\DAOProduto.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LojaWEB.DAO.DAOProdutoVenda">
+    <Position X="10" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>DAO\DAOProdutoVenda.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LojaWEB.DAO.DAOVenda">
+    <Position X="12" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAIAAAAAAAAAAAEAA=</HashCode>
+      <FileName>DAO\DAOVenda.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LojaWEB.Basicas.Cliente">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAQCAAAEAAABAAAEAQAABAAAAEABAIAAAQAQAAAAE=</HashCode>
+      <FileName>Basicas\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LojaWEB.Basicas.FormaPagamento">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAFAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Basicas\FormaPagamento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LojaWEB.Basicas.Funcionario">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAIAAAACQAAAAEACAAgAAgEIAAAAAAAAAA=</HashCode>
+      <FileName>Basicas\Funcionario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LojaWEB.Basicas.Produto">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAABBCAAAQQAAAAAAgAEAAIAJAAAACAAABAAAAAQAA=</HashCode>
+      <FileName>Basicas\Produto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LojaWEB.Basicas.ProdutoVenda">
+    <Position X="9.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AiCAAAIgAAAAAAAAAAgAAAAJAAAAAQAAAAAAAAAAgAA=</HashCode>
+      <FileName>Basicas\ProdutoVenda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LojaWEB.Basicas.Venda">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAQAABAEAAAAAAAEAAAABACAAAAAgAAAAIAAAAiAA=</HashCode>
+      <FileName>Basicas\Venda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

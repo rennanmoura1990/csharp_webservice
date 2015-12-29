@@ -1,0 +1,31 @@
+D:\Projeto DSD\Projeto DSD Atualizado\LojaServer\LojaServer\bin\Debug\LojaServer.exe.config
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaServer\LojaServer\bin\Debug\LojaServer.exe.config
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaServer\LojaServer\bin\Debug\LojaServer.exe
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaServer\LojaServer\bin\Debug\LojaServer.pdb
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaServer\LojaServer\obj\Debug\LojaServer.csprojResolveAssemblyReference.cache
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaServer\LojaServer\obj\Debug\LojaServer.Autorizacao.resources
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaServer\LojaServer\obj\Debug\LojaServer.Properties.Resources.resources
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaServer\LojaServer\obj\Debug\LojaServer.csproj.GenerateResource.Cache
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaServer\LojaServer\obj\Debug\LojaServer.exe
+C:\Users\rennanmoura\Desktop\Loja XYZ\LojaServer\LojaServer\obj\Debug\LojaServer.pdb
+J:\Projeto DSD\Projeto DSD Atualizado\LojaServer\LojaServer\bin\Debug\LojaServer.exe.config
+J:\Projeto DSD\Projeto DSD Atualizado\LojaServer\LojaServer\obj\Debug\LojaServer.exe
+J:\Projeto DSD\Projeto DSD Atualizado\LojaServer\LojaServer\obj\Debug\LojaServer.pdb
+J:\Projeto DSD\Projeto DSD Atualizado\LojaServer\LojaServer\bin\Debug\LojaServer.exe
+J:\Projeto DSD\Projeto DSD Atualizado\LojaServer\LojaServer\bin\Debug\LojaServer.pdb
+J:\Projeto DSD\Projeto DSD Atualizado\LojaServer\LojaServer\obj\Debug\LojaServer.csprojResolveAssemblyReference.cache
+J:\Projeto DSD\Projeto DSD Atualizado\LojaServer\LojaServer\obj\Debug\LojaServer.Autorizacao.resources
+J:\Projeto DSD\Projeto DSD Atualizado\LojaServer\LojaServer\obj\Debug\LojaServer.Properties.Resources.resources
+J:\Projeto DSD\Projeto DSD Atualizado\LojaServer\LojaServer\obj\Debug\LojaServer.csproj.GenerateResource.Cache
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaServer\LojaServer\bin\Debug\LojaServer.exe.config
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaServer\LojaServer\obj\Debug\LojaServer.exe
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaServer\LojaServer\obj\Debug\LojaServer.pdb
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaServer\LojaServer\bin\Debug\LojaServer.exe
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaServer\LojaServer\bin\Debug\LojaServer.pdb
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaServer\LojaServer\obj\Debug\LojaServer.csprojResolveAssemblyReference.cache
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaServer\LojaServer\obj\Debug\LojaServer.Autorizacao.resources
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaServer\LojaServer\obj\Debug\LojaServer.Properties.Resources.resources
+C:\Users\rennanmoura\Desktop\Projeto DSD Atualizado\LojaServer\LojaServer\obj\Debug\LojaServer.csproj.GenerateResource.Cache
+J:\Projeto DSD\LojaServer\LojaServer\bin\Debug\LojaServer.exe.config
+J:\Projeto DSD\LojaServer\LojaServer\obj\Debug\LojaServer.exe
+J:\Projeto DSD\LojaServer\LojaServer\obj\Debug\LojaServer.pdb
