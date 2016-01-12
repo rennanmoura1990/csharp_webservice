@@ -124,6 +124,7 @@ namespace LojaCliente
         #endregion
         #region Joga o valor e quantidade em estoque do produto em uma textbox
         //preenche textbox do preço com o preço do produto selecionado na combobox de produtos
+		//preenche textbox da quantidade de estoque com o estoque do produto selecionado da combobox de produtos
         private void comboBoxProdutos_SelectedIndexChanged(object sender, EventArgs e) //Joga o valor do produto na textbox do preço
         {
             Produto p = new Produto();
@@ -239,7 +240,8 @@ namespace LojaCliente
             try
             {
                 binaryWriter.Write("Funcionário : " + f.Nome_funcionario + ",requer autorização para finalizar venda " + txtIDVenda.Text + "");
-                do
+                //Neste Laço Do While,o programa fica aguardando pela resposta do gerente (LojaSever)
+				do
                 {
                     try
                     {
@@ -309,6 +311,7 @@ namespace LojaCliente
         }
         #endregion
         #region atualiza minha combobox de clientes
+		//Depois de cadastrar o cliente,e necessário fazer essa operação,de clicar no botão de atualizar
         private void pictureBox1_Click_1(object sender, EventArgs e)
         {
             comboBoxCliente.DataSource = null;
