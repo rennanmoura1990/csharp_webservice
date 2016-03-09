@@ -29,9 +29,9 @@ create table clientes
 	nome_cliente       varchar(200)    not null,
 	cpf_cliente        char(15)        not null,
 	rg_cliente         char(9)        not null,
-	tel_cliente        varchar(20)     not null, --Pode ser celular,pode ser fixo,pode ser do mesmo estado,ou n„o...
+	tel_cliente        varchar(20)     not null, --Pode ser celular,pode ser fixo,pode ser do mesmo estado,ou n√£o...
 	logradouro_cliente varchar(100)    not null,
-	email_cliente      varchar(100) --N„o obrigatÛrio!
+	email_cliente      varchar(100) --N√£o obrigat√≥rio!
 );
 go
 
@@ -41,7 +41,7 @@ create table produtos
 	nome_produto    varchar(200)	  not null,
 	marca_produto   varchar(200)      not null,
 	tipo_produto    varchar(200)      not null,
-	valor_produto   decimal(12,2)     not null, --Valor Unit·rio
+	valor_produto   decimal(12,2)     not null, --Valor Unit√°rio
 	estoque_produto int 	          not null,
 	detalhe_produto varchar(1000)	  not null
 );
@@ -58,9 +58,9 @@ create table venda
 	id_venda        int constraint pk_venda not null primary key,
 	data_venda      char(19)            	not null,
 	valor_venda		decimal(12,2)		    not null,
-	id_funcionario  int constraint fk_funcionarios foreign key references funcionarios(id_funcionario) 	ON DELETE CASCADE not null, 
-	id_cliente      int constraint fk_clientes     foreign key references clientes(id_cliente) 	ON DELETE CASCADE not null,
-	id_formapag     int constraint fk_formapag     foreign key references formapag(id_formapag) ON DELETE CASCADE not null
+	id_funcionario  int constraint fk_funcionarios foreign key references funcionarios(id_funcionario) 	ON DELETE SET NULL not null, 
+	id_cliente      int constraint fk_clientes     foreign key references clientes(id_cliente) 	ON DELETE SET NULL not null,
+	id_formapag     int constraint fk_formapag     foreign key references formapag(id_formapag) ON DELETE SET NULL not null
 );
 go
 
@@ -70,16 +70,16 @@ create table produto_venda
 	qtd_produtovenda 		 int            not null,
 	vu_produtovenda          decimal(12,2)  not null,
 	--vt_produtovenda          decimal (12,2) not null,
-	id_produto     			 int constraint fk_produto foreign key references produtos(id_produto) 	ON DELETE CASCADE not null,
-	id_venda       			 int constraint fk_venda   foreign key references venda(id_venda) 	ON DELETE CASCADE not null
+	id_produto     			 int constraint fk_produto foreign key references produtos(id_produto) 	ON DELETE SET NULL not null,
+	id_venda       			 int constraint fk_venda   foreign key references venda(id_venda) 	ON DELETE SET NULL not null
 );
 go
 create table troca
 (
 	id_troca               int constraint pk_troca not null primary key,
 	data_troca             char(19) not null,
-	id_prod_venda          int constraint fk_vendatroca      foreign key references produto_venda(id_sequencial) 	ON DELETE CASCADE not null, -- venda armazena produto_venda
-	--id_produtovendido    int constraint fk_produtovendido  foreign key references produto_venda(fk_produto)    not null, -- como foreign key,n„o pega na tabela troca
+	id_prod_venda          int constraint fk_vendatroca      foreign key references produto_venda(id_sequencial) 	ON DELETE SET NULL not null, -- venda armazena produto_venda
+	--id_produtovendido    int constraint fk_produtovendido  foreign key references produto_venda(fk_produto)    not null, -- como foreign key,n√£o pega na tabela troca
 	id_produtotroca         int constraint fk_produtotroca   foreign key references produtos(id_produto) null
 );
 
